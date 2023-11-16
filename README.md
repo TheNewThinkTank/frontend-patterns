@@ -12,3 +12,8 @@ cd vite-project
 npm i
 npm run dev
 ```
+then visit `http://localhost:5173/`
+
+## Terminology and abbreviations
+
+HMR: Hot Module Replacement
