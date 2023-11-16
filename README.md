@@ -9,6 +9,6 @@ TypeScript and React app examples
 then
 ```BASH
 cd vite-project
-npm install
+npm i
 npm run dev
 ```
