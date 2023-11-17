@@ -1,3 +1,4 @@
+![CI](https://github.com/TheNewThinkTank/frontend-patterns/actions/workflows/wf.yml/badge.svg)
 # frontend-patterns
 TypeScript and React app examples
 
