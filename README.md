@@ -15,6 +15,10 @@ npm run dev
 ```
 then visit `http://localhost:5173/`
 
+## Health check
+
+`curl -I -w "%{http_code}" http://localhost:5173/health -o /dev/null`
+
 ## Terminology and abbreviations
 
 HMR: Hot Module Replacement
